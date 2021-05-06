@@ -5,9 +5,9 @@ Welcome to my GitHub!
 
 About me:
 
-👀 I am interested in Java, Spring, Hibernate.
+👀 I am interested in Java, Spring, Hibernate. 
 
-💞️ I am looking for job as Junior Java Developer in a company, that implements interesting projects, uses interesting and modern solutions and employs outstanding specialists. 
+💞️ I am looking for a job as Junior Java Developer in a company, that implements interesting projects, uses interesting and modern solutions and employs outstanding specialists. 
 I completed several small projects. I am an open minded person, who likes to learn new things and would be happy to bring also previous business experience to our common projects.
 
 📫 How to reach me : https://www.linkedin.com/in/a-wierzejska
