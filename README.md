@@ -14,10 +14,7 @@ I completed several small projects. I am an open minded person, who likes to lea
 
 Tools/Technologies used in my projects:
  
- Java 8/11        Git   
- Spring Boot      SpringWEB   
- REST API         Hibernate     
- JDBC             MySQL
+ Java 8/11     Git     Spring Boot     SpringWEB     REST API     Hibernate     JDBC     MySQL
  JUnit5           Mockito         
  Swagger          Thymeleaf    
  IntelliJ         Jira
