@@ -14,7 +14,6 @@ I completed several small projects. I am an open minded person, who likes to lea
 Tools/Technologies used in my projects:
  
  Java 8/11
- Git     
  Spring Boot     
  SpringWEB     
  REST API     
@@ -28,7 +27,7 @@ Tools/Technologies used in my projects:
  Thymeleaf    
  IntelliJ         
  Jira
- Gradle           
-  
+ Gradle   
+ Git  
 
 I’m currently learning: HTML and CSS.
