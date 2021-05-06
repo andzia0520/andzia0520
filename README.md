@@ -2,7 +2,6 @@ Hello World :)
 
 Welcome to my GitHub! 
 
-
 About me:
 
 👀 I am interested in Java, Spring, Hibernate. 
@@ -31,8 +30,6 @@ Tools/Technologies used in my projects:
  Jira
  Gradle           
   
-
-
 
 I’m currently learning:
 
