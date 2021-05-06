@@ -1,4 +1,5 @@
 Hello World :)
+
 Welcome to my GitHub! 
 
 About me:
@@ -12,7 +13,7 @@ I completed several small projects. I am an open minded person, who likes to lea
 
 Tools/Technologies used in my projects:
  
- Java 8/11 
+ Java 8/11
  Git     
  Spring Boot     
  SpringWEB     
