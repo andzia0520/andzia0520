@@ -1,5 +1,4 @@
 Hello World :)
-
 Welcome to my GitHub! 
 
 About me:
@@ -31,8 +30,4 @@ Tools/Technologies used in my projects:
  Gradle           
   
 
-I’m currently learning:
-
-HTML and CSS.
-
-
+I’m currently learning: HTML and CSS.
