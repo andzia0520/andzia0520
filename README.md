@@ -29,5 +29,6 @@ Tools/Technologies used in my projects:
  Jira
  Gradle   
  Git  
-
+ VAADIN
+ 
 I’m currently learning: HTML and CSS.
