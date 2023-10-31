@@ -13,11 +13,11 @@ I completed several small projects. I am an open minded person, who likes to lea
 
 Tools/Technologies used in my projects:
 
- JavaScript
- HTML5
+ JavaScript    
+ HTML5         
  CSS3
- Bootstrap
- Vue.js
+ Bootstrap   
+ Vue.js  
  Java 8/11
  Spring Boot     
  SpringWEB     
@@ -28,12 +28,10 @@ Tools/Technologies used in my projects:
  JUnit5           
  Mockito   
  Selenium WebDriver
- Swagger          
- Thymeleaf    
+ Swagger           
  IntelliJ         
- Jira
- Gradle   
+ Jira 
  Git  
- VAADIN
+ VSC
  
 I’m currently learning: Vue.js.
